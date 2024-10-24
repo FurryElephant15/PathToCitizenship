@@ -1,1 +1,1 @@
-FLASK_APP=fcpRun.py
+FLASK_APP=fcprun.py
